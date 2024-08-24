@@ -72,7 +72,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'Casio Watch',
+                        'Casio Watch new',
                         style:
                             TextStyle(fontSize: 30, fontWeight: FontWeight.w800),
                       ),
