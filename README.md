@@ -1,6 +1,8 @@
 # futter_ui_one
+![Screenshot_2024-08-25-00-15-37-580_com example futter_ui_one](https://github.com/user-attachments/assets/2f5d3870-c77e-4546-8e83-90a14da83554)
 
-A new Flutter project.
+
+A simple Flutter ui project.
 
 ## Getting Started
 
